@@ -21,6 +21,24 @@
         "blob/9547533242738f4bf6c8df0887cf890493b74e9e.nq.gz",
         "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
         "blob/dc778b3842ad6b932aefd6d7006dfec5e45cc400.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/515e8a456e416892df87a816cf1665c177acd68a.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/515e8a456e416892df87a816cf1665c177acd68a.nq.gz",
+      "repolex": "aggregate/repolex/515e8a456e416892df87a816cf1665c177acd68a.nq.gz",
+      "dep": "dep/515e8a456e416892df87a816cf1665c177acd68a.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rbs",
+          "ecosystem": "RUBYGEMS",
+          "version": "4.0.0.",
+          "githubOrg": "ruby",
+          "githubRepo": "rbs",
+          "githubUrl": "https://github.com/ruby/rbs.git",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/gem/ruby/3.2.0/gems/rbs-4.0.0.dev.4/core/file.rbs"
+        }
       ]
     }
   ],
