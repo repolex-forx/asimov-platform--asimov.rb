@@ -36,6 +36,13 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 
 ```
 .
+├── aggregate
+│   ├── ast
+│   │   └── 515e8a456e416892df87a816cf1665c177acd68a.nq.gz
+│   ├── lsp
+│   │   └── 515e8a456e416892df87a816cf1665c177acd68a.nq.gz
+│   └── repolex
+│       └── 515e8a456e416892df87a816cf1665c177acd68a.nq.gz
 ├── blob
 │   ├── 08e982fc64da74c1127b13bd6235ee3abbc59a72.nq.gz
 │   ├── 1d1fc9063035c48afe3a01be9a2d3d4bae3d5ea0.nq.gz
@@ -53,12 +60,14 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 515e8a456e416892df87a816cf1665c177acd68a.nq.gz
 ├── filetree
 │   └── 515e8a456e416892df87a816cf1665c177acd68a.nq.gz
 └── tag
     └── tag.nq.gz
 
-6 directories, 16 files
+11 directories, 20 files
 ```
 
 | Directory | What it contains |
