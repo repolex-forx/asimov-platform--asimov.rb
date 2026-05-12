@@ -40,6 +40,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   ├── 4b19f207af1fc82afc1ecd47b7254668d50d4473
 │   │   │   └── chunk-001.nq.gz
+│   │   ├── 515e8a456e416892df87a816cf1665c177acd68a
+│   │   │   └── chunk-001.nq.gz
 │   │   ├── 515e8a456e416892df87a816cf1665c177acd68a.nq.gz
 │   │   ├── 6ce6a64ce3586409dd46be54145d8d349d78ec19
 │   │   │   └── chunk-001.nq.gz
@@ -52,6 +54,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   │   └── 973897c56692a4be0f664a2606bf1b6e16c8da24.nq.gz
 │   └── repolex
 │       ├── 4b19f207af1fc82afc1ecd47b7254668d50d4473
+│       │   └── chunk-001.nq.gz
+│       ├── 515e8a456e416892df87a816cf1665c177acd68a
 │       │   └── chunk-001.nq.gz
 │       ├── 515e8a456e416892df87a816cf1665c177acd68a.nq.gz
 │       ├── 6ce6a64ce3586409dd46be54145d8d349d78ec19
@@ -178,7 +182,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-17 directories, 125 files
+19 directories, 127 files
 ```
 
 | Directory | What it contains |
@@ -198,4 +202,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [asimov-platform/asimov.rb](https://github.com/asimov-platform/asimov.rb)
 
 ---
-*Parsed on 2026-05-10 by [repolex](https://repolex.ai)*
+*Parsed on 2026-05-12 by [repolex](https://repolex.ai)*
